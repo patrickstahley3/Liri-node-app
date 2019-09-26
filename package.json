@@ -1,0 +1,29 @@
+{
+  "name": "Liri-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickstahley3/Liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickstahley3/Liri-node-app/issues"
+  },
+  "homepage": "https://github.com/patrickstahley3/Liri-node-app#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.1.0",
+    "install": "^0.13.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "npm": "^6.11.3"
+  },
+  "devDependencies": {}
+}
